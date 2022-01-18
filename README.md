@@ -1,4 +1,4 @@
-# Crypto_Data_Ectraction
+# Crypto_Data_Extraction
 
 usage ``` ./main.py```
 
